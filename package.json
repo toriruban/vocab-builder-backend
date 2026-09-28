@@ -1,0 +1,28 @@
+{
+  "name": "vocab-builder-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toriruban/vocab-builder-backend.git"
+  },
+  "keywords": [],
+  "author": "toriruban <toriruban@icloud.com>",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/toriruban/vocab-builder-backend/issues"
+  },
+  "homepage": "https://github.com/toriruban/vocab-builder-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
