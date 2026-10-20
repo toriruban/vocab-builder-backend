@@ -1,3 +1,10 @@
 node_modules/
 .env
 *.log
+/src/generated/prisma
+
+# AI and IDE service folders
+.agents/
+.claude/
+.windsurf/
+.skills-lock.json
